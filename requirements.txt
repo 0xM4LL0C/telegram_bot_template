@@ -3,4 +3,4 @@ pymongo==4.12.1
 tomlkit==0.13.2
 tinylogging==5.0.1
 dacite==1.9.2
-cachetools==5.5.2
+cachetools==6.0.0
