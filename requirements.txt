@@ -1,5 +1,5 @@
 aiogram==3.20.0.post0
-pymongo==4.13.1
+pymongo==4.13.2
 tomlkit==0.13.3
 tinylogging==5.0.1
 dacite==1.9.2
