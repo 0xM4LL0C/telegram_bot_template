@@ -1,6 +1,6 @@
 aiogram==3.24.0
 pymongo==4.15.5
-tomlkit==0.13.3
+tomlkit==0.14.0
 tinylogging==5.0.1
 dacite==1.9.2
 cachetools==6.2.4
