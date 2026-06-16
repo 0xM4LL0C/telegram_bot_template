@@ -1,4 +1,4 @@
-aiogram==3.28.2
+aiogram==3.29.0
 pymongo==4.17.0
 tomlkit==0.15.0
 tinylogging==5.0.1
